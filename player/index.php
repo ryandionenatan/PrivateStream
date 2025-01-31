@@ -50,13 +50,13 @@ if(!empty($tok)) {
 		<div id="guts">
             <p>Welcome! Please select a server above to watch the stream, I recommend to select a server that located nearest to your location.<br>
 			I hope you'll enjoy the stream! If you do enjoy it, you can help me by donate via Bitcoin above or via Paypal by asking me directly.<br><br>
-			Thank you!<br><br>orangebirds</p>
+			Thank you!
 		</div>
 		</section>
 	</div>
 	
 	<footer>
-	  &copy;2010 CSS-Tricks modified by orangebirds
+	  &copy;2021
 	</footer>
 
 </body>
