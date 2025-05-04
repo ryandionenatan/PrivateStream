@@ -1,0 +1,17 @@
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-TARGETDURATION:8
+#EXT-X-MEDIA-SEQUENCE:0
+#EXTINF:8.333333,
+https://12points.tech/sts/offline0.ts
+#EXTINF:4.166667,
+https://12points.tech/sts/offline1.ts
+#EXTINF:4.166667,
+https://12points.tech/sts/offline2.ts
+#EXTINF:4.166667,
+https://12points.tech/sts/offline3.ts
+#EXTINF:4.166667,
+https://12points.tech/sts/offline4.ts
+#EXTINF:5.016667,
+https://12points.tech/sts/offline5.ts
+#EXT-X-ENDLIST
