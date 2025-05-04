@@ -3,9 +3,9 @@
 #EXT-X-TARGETDURATION:8
 #EXT-X-MEDIA-SEQUENCE:0
 #EXTINF:7.800000,
-https://12points.tech/sts/denied0.ts
+https://(domain)/sts/denied0.ts
 #EXTINF:6.280000,
-https://12points.tech/sts/denied1.ts
+https://(domain)/sts/denied1.ts
 #EXTINF:0.920000,
-https://12points.tech/sts/denied2.ts
+https://(domain)/sts/denied2.ts
 #EXT-X-ENDLIST
