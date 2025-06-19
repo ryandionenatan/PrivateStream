@@ -1,6 +1,6 @@
 # PrivateStream
 
-PrivateStream is a web-based streaming service designed to provide secure access to content. By incorporating token validation, the system ensures that only authenticated users can stream content, effectively safeguarding private content on the platform.
+PrivateStream is a web-based streaming service designed to provide secure access to content. By incorporating token validation, the system ensures that only authenticated users can stream content, safeguarding private content on the platform.
 
 ## Features
 
